@@ -2,6 +2,8 @@
 Este es mi primer app de consola en Node
 
 ```
+Al iniciar ejecutar 'npm install' para agregar los node_modules
+
 Options:
       --help     Show help           [boolean]
       --version  Show version number [boolean]
