@@ -1,0 +1,5 @@
+#Se ignoran los modulos de node ya que que el usuario puede volver a instalarlos con el comando "npm install"
+node_modules/ 
+
+#Tambien se ignoran los archivos txt en la carpeta salida, pero no la carpeta porque ahi es donde se crearan los archivos de texto que cree el usuario
+salida/*.txt
